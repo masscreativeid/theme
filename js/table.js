@@ -159,7 +159,7 @@ function customViewFormatter(products) {
                 </div>
               </div>
               <figure class="mb15 mt25 position-relative">
-                <a class="img-centered-flex rh-flex-justify-center rh-flex-center-align" href="#">
+                <a class="img-centered-flex rh-flex-justify-center rh-flex-center-align" href="${item.postlink}">
                   <img src="${imageLink}" data-src="${imageLink}" alt="${item.itemname}" data-skip-lazy="" class="lazyload" width="300" height="300" />
                 </a>
   

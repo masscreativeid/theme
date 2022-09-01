@@ -69,7 +69,7 @@ let miniCartList = () => {
       .join("");
   } else {
     miniProductList.innerHTML = `
-    <li class="alert alert-danger">
+    <li class="alert alert-danger" style="text-align: center;">
 	  <strong>Ouw la..la..!</strong> masih kosong dong 😫 <br/>👉 <a href="/p/shop.html" class="alert-link">Pilih item</a> dulu yuk 👌
 	</li>
     `;

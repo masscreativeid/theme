@@ -12378,7 +12378,7 @@ html body .rounded-circle {
 }
 
 .highlighted-word.highlighted-word-animation-1.highlighted-word-animation-1-dark:after {
-  background: url(../img/pencil-blue-line-dark.png);
+  background: url(https://rawcdn.githack.com/masscreativeid/theme/b932745f3e016701673a422db767e7637103c325/assets/pencil-blue-line-dark.png);
 }
 
 .highlighted-word.highlighted-word-animation-1.highlighted-word-animation-1-no-rotate:after {
@@ -12396,12 +12396,12 @@ html body .rounded-circle {
   -webkit-animation-name: pencilAnimation2;
   animation-name: pencilAnimation2;
   right: calc(100% - 115px);
-  background: url(../img/pencil-blue-line-2.png);
+  background: url(https://rawcdn.githack.com/masscreativeid/theme/b932745f3e016701673a422db767e7637103c325/assets/pencil-blue-line-2.png);
   background-repeat: no-repeat;
 }
 
 .highlighted-word.highlighted-word-animation-1.highlighted-word-animation-1-2-dark:after {
-  background-image: url(../img/pencil-blue-line-2-dark.png);
+  background-image: url(https://rawcdn.githack.com/masscreativeid/theme/b932745f3e016701673a422db767e7637103c325/assets/pencil-blue-line-2-dark.png);
 }
 
 .highlighted-word.highlighted-word-rotate {

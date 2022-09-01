@@ -1,4 +1,4 @@
-var $table = $("#table");
+
 
 //
 window.operateEvents = {};

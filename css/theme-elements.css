@@ -12354,7 +12354,7 @@ html body .rounded-circle {
   position: absolute;
   right: calc(100% - 74px);
   bottom: -6px;
-  background: url(../img/pencil-blue-line.png);
+  background: url(https://rawcdn.githack.com/masscreativeid/theme/41348f37e01ca4ca958b09770734ae92b8bf82b5/assets/pencil-blue-line.png);
   width: 0;
   height: 15px;
   -webkit-animation-name: pencilAnimation;
